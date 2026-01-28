@@ -1,4 +1,6 @@
-# ECG-Based Stress Monitoring Using Physiological Signals
+#Smart ECG Monitoring 
+
+ECG-Based Stress Monitoring Using Physiological Signals
 
 ## Abstract
 This project presents an ECG-based stress monitoring system that analyzes multiple physiological signals to distinguish between baseline and stress conditions. The system utilizes biosignals such as Inter-Beat Interval (IBI), Heart Rate (HR), Electrodermal Activity (EDA), Blood Volume Pulse (BVP), Skin Temperature (TEMP), and Accelerometer (ACC) data. By extracting Heart Rate Variability (HRV) features and applying machine learning techniques, the system aims to support non-clinical stress monitoring for wearable healthcare applications.
