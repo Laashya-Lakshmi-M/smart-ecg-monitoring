@@ -1,0 +1,4 @@
+participant,predicted_label,prob_baseline,prob_stress
+S11_E4_Data,1,0.0,1.0
+S13_E4_Data,1,0.0,1.0
+S14_E4_Data,1,0.0,1.0
